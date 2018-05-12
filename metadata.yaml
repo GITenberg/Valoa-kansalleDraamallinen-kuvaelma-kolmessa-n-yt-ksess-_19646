@@ -1,0 +1,29 @@
+_repo: Valoa-kansalleDraamallinen-kuvaelma-kolmessa-n-yt-ksess-_19646
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Soini, Wilho
+    birthdate: 1854
+    deathdate: 1934
+    gutenberg_agent_id: '8792'
+    url: http://www.gutenberg.org/2009/agents/8792
+    wikipedia: http://fi.wikipedia.org/wiki/Wilho_Soini
+description: ''
+gutenberg_issued: '2006-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19646'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Drama'
+title: 'Valoa kansalle
+
+  Draamallinen kuvaelma kolmessa näytöksessä'
+url: http://www.gutenberg.org/ebooks/19646
